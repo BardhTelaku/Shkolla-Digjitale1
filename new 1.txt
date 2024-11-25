@@ -1,0 +1,10 @@
+<!DOCTYPE.html>
+<html>
+	<head>
+			<title>ushtrim në klasë</title>
+	</head>
+	<body>
+	      <h1>"The first page:</h1>
+		  <p>I am from Albania</h1>
+	</body>
+</html>
